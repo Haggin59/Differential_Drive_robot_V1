@@ -1,4 +1,10 @@
-//Measuring distance covered by both Left and Right wheels
+
+
+
+// Successfull failure :(
+// The sensor measuring rates mess up the calculations
+// The code will be revised with Interrupts  
+// Measuring distance covered by both Left and Right wheels
 
 
 
